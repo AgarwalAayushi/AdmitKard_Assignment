@@ -1,0 +1,40 @@
+.search_box{
+    padding: 1.5% 3%;
+}
+.submit_box{
+    padding: 1% 2%;
+    font-weight: bold;
+    color: #fff;
+    background-color: #ed9d67;
+    border: 2px solid #ed9d67;
+}
+.submit_box:hover{
+    color: #ed9d67;
+    background-color: #fff;
+    cursor: pointer;
+}
+.search_form{
+    color:#747474;
+    margin-top: 5%;
+    width:21vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    border:1px solid #fff;
+    border-radius: 5px;
+}
+.data{
+    color:#747474;
+
+    background-color: #fff;
+    width:80vw;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    border-radius: 10px;
+}
+h3, p {
+    display: inline-block;
+    margin-right: 2%;
+}
